@@ -5,4 +5,4 @@ PU_CNN folder contains code for cohesive parameter identification from fringe im
 
 fringe_cGAN folder contains code for fringe inpainting.
 
-Abaqus folder contains ABAQUS input and subrountine for impact simulations
+Abaqus folder contains example for ABAQUS input and subrountine template for impact simulations

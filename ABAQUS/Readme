@@ -1,1 +1,3 @@
+To run the impact simulation:
 
+abaqus  double -input ML_PU.inp -user HJ_polyurea_vumat_LJ_vuinter_template.for -job HJ_polyurea_vumat_LJ_vuinter_template cpus=24 -inter
